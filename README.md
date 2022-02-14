@@ -8,7 +8,8 @@
  The main objective of the problem is to develop the machine learning approach to predict the engagement score of the video on the user level.
  
 ## Data Dictionary
- ![image](https://user-images.githubusercontent.com/66662380/153810668-0f9617c5-9415-427e-8643-492d29faec6c.png)
+ <img src="https://user-images.githubusercontent.com/66662380/153810668-0f9617c5-9415-427e-8643-492d29faec6c.png"
+      width=50% height=50%>
 
 ## Evaluation metric
  The evaluation metric for this hackathon is r2 score.
@@ -20,8 +21,10 @@
  - Selecting best ML algo and applying it on the test data
  
 ## My Rank
- Rank out of 1177 competitors
- ![image](https://user-images.githubusercontent.com/66662380/153810817-a7362c59-2718-49b1-b746-dd62f775c6d2.png)
+ Rank 286 out of 1181 competitors (< 25%ile)
+ 
+ <img src="https://user-images.githubusercontent.com/66662380/153810817-a7362c59-2718-49b1-b746-dd62f775c6d2.png"
+      width=50% height=50%>
 
 ## Tableau EDA
  https://public.tableau.com/app/profile/kenrich/viz/MovieEngagementscoreEDA/Dashboard
