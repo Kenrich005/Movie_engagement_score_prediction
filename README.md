@@ -29,5 +29,6 @@
 ## Tableau EDA
  https://public.tableau.com/app/profile/kenrich/viz/MovieEngagementscoreEDA/Dashboard
  
- ![Dashboard](https://user-images.githubusercontent.com/66662380/153812916-43f740b8-7c7d-448e-b8ef-1afb1ad05b70.png)
+ <img src="(https://user-images.githubusercontent.com/66662380/153812916-43f740b8-7c7d-448e-b8ef-1afb1ad05b70.png"
+      width=80% height=80%>
 
