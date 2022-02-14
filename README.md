@@ -24,7 +24,7 @@
  Rank 286 out of 1181 competitors (< 25%ile)
  
  <img src="https://user-images.githubusercontent.com/66662380/153810817-a7362c59-2718-49b1-b746-dd62f775c6d2.png"
-      width=50% height=50%>
+       width=80% height=80%>
 
 ## Tableau EDA
  https://public.tableau.com/app/profile/kenrich/viz/MovieEngagementscoreEDA/Dashboard
